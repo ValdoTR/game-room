@@ -348,19 +348,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Have fun in this game room!"
+         "value":"Suitable for up to 50 users.\n\nNothing better to take your mind off things than a game room. You have access to billiard tables and arcade machines. Have fun!"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/valdotr.github.io\/game-room\/map.json"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Game room"
